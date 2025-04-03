@@ -1,0 +1,18 @@
+,eventId,classroomId,identifier,participantRole,value,status,districtId,schoolid,schoolname,eventname,walkthroughid,focusGroup,name,subtext,participantId
+1,10413,56480,2A,school coach,Somewhat Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34145,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5087
+2,10413,56480,2A,school coach,Not Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34163,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5088
+3,10413,56480,2A,school coach,Not Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34141,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5086
+4,10413,56480,2A,asst principal,Not Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34138,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5085
+5,10413,56480,2A,teacher,Somewhat Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34160,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,1053
+6,10413,56480,2A,teacher,Somewhat Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34140,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5089
+7,10413,56480,2A,el coach,Evident,complete,4430,3771,Rosemary Elementary,MTSS Walkthrough 12/7,34140,Management in the Active Classroom,field10,Teachers use protocols to allow students to build upon each other's responses and promote equity of voice.,5089
+8,9952,46733,1B,el coach,Somewhat Evident,complete,590,717,Lighthouse Community Charter School,Crew Structure Walkthrough ,31873,Community of Learning and Culture/Structure of Crew,field01,Crew structures include many routines that build a community and culture of Crew.,417
+9,9952,46733,1B,district leader,Evident,complete,590,717,Lighthouse Community Charter School,Crew Structure Walkthrough ,31894,Community of Learning and Culture/Structure of Crew,field01,Crew structures include many routines that build a community and culture of Crew.,3531
+10,12230,55343,2G,el coach,Evident,complete,4826,7104,P.S. 153 - Helen Keller,PS 153 EOY Walkthrough 6/10/24,38558,"Tasks, Questions & Evidence",field16,"Students use the text to provide evidence, confirm ideas, and/or clarify and question answers.",4895
+11,12230,55343,2G,el coach,Somewhat Evident,complete,4826,7104,P.S. 153 - Helen Keller,PS 153 EOY Walkthrough 6/10/24,38531,"Tasks, Questions & Evidence",field16,"Students use the text to provide evidence, confirm ideas, and/or clarify and question answers.",4895
+12,10425,55343,6F,el coach,Somewhat Evident,complete,4826,7104,P.S. 153 - Helen Keller,PS 153 EOY Walkthrough 6/10/24,38531,"Tasks, Questions & Evidence",field16,"Students use the text to provide evidence, confirm ideas, and/or clarify and question answers.",4895
+13,15432,48722,4D,el coach,Evident,,,,,,,,,,
+14,15432,48722,4D,district leader,Somewhat Evident,,,,,,,,,,
+15,15432,48722,4D,teacher,Somewhat Evident,,,,,,,,,,
+16,15432,48722,4D,school coach,Not Evident,,,,,,,,,,
+17,15432,48722,4D,school coach,Not Evident,,,,,,,,,,
